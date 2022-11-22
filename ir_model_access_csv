@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_city_shop_customer,city_shop_customer.city_shop_customer,model_city_shop_customer,,1,0,0,0
+access_city_shop_employee,city_shop_employee.city_shop_employee,model_city_shop_employee,,1,0,0,0
+access_product_template,product.template,model_product_template,,1,0,0,0
